@@ -17,3 +17,11 @@
 </div>
 
 
+## Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/charvi-jain-1b1b98202/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="mailto:jcharvi123@gmail.com"></a> <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GMail logo"  />
+  <a href="https://www.instagram.com/_charvidreams_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="insta logo"  />
+</div>
+
